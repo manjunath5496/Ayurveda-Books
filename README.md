@@ -7,6 +7,48 @@
 
 </br>
 
+<div class="toctitle" dir="ltr" lang="en">
+<h2 id="mw-toc-heading">Contents</h2>
+<label class="toctogglelabel" for="toctogglecheckbox"></label></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Eight_components"><span class="toctext">Eight components</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Principles_and_terminology"><span class="toctext">Principles and terminology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Practice"><span class="toctext">Practice</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Diagnosis"><span class="toctext">Diagnosis</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Treatment_and_prevention"><span class="toctext">Treatment and prevention</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Substances_used"><span class="toctext">Substances used</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Panchakarma"><span class="toctext">Panchakarma</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Current_status"><span class="toctext">Current status</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#India"><span class="toctext">India</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Other_countries_on_the_Indian_subcontinent"><span class="toctext">Other countries on the Indian subcontinent</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Outside_the_Indian_subcontinent"><span class="toctext">Outside the Indian subcontinent</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Classification_and_efficacy"><span class="toctext">Classification and efficacy</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Research"><span class="toctext">Research</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="#Use_of_toxic_metals"><span class="toctext">Use of toxic metals</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#History"><span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Main_texts"><span class="toctext">Main texts</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Illnesses_portrayed"><span class="toctext">Illnesses portrayed</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Further_development_and_spread"><span class="toctext">Further development and spread</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Footnotes"><span class="toctext">Footnotes</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Books"><span class="toctext">Books</span></a></li>
+</ul>
+
+</br>
 
 
 
