@@ -101,6 +101,17 @@ You Sleep Like a Baby</a></li>
 	
  <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(56).pdf" style="text-decoration:none;">Complementary Medicine For Dummies</a></li>
 	
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(57).pdf" style="text-decoration:none;">The Ayurveda Pharmacopeia of India Part-2 Volume-1</a></li>
+
+
+	
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(58).pdf" style="text-decoration:none;">The Ayurveda Pharmacopeia of India Part-2 Volume-2</a></li>
+	
+	
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(59).pdf" style="text-decoration:none;">The Ayurveda Pharmacopeia of India Part-2 Volume-3</a></li>
+	
+
+
 
 	
 </ul>
