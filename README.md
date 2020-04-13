@@ -65,41 +65,41 @@ You Sleep Like a Baby</a></li>
 	
 <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(39).pdf" style="text-decoration:none;">The Complete Book of Ayurvedic Home Remedies</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(40).pdf" style="text-decoration:none;">The Easy Ayurveda Cookbook: An Ayurvedic Cookbook to Balance Your Body, Eat Well, and Still Have Time to Live Your Life</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(41).pdf" style="text-decoration:none;">Physics of Oscillations and Waves: With use of Matlab and Python</a></li>	
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(41).pdf" style="text-decoration:none;">The Everyday Ayurveda Cookbook</a></li>	
 	
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(42).pdf" style="text-decoration:none;">Practical Biomedical Signal Analysis Using MATLAB</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(42).pdf" style="text-decoration:none;">The Everything Guide to Ayurveda: Improve your health, develop your inner energy, and find balance in your life</a></li>
 	
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(43).pdf" style="text-decoration:none;">Practical MATLAB Applications for Engineers</a></li>
-	
-
-  <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(44).pdf" style="text-decoration:none;">Programming for Computations – MATLAB/Octave</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(45).pdf" style="text-decoration:none;">Numerical Analysis Using MATLAB and Spreadsheets</a></li>	
-	
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(46).pdf" style="text-decoration:none;">Radar Systems Analysis and Design Using MATLAB</a></li>
-	
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(47).pdf" style="text-decoration:none;">Scientific Computing with MATLAB and Octave</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(43).pdf" style="text-decoration:none;">The Science Behind the Magic of Ayurveda: Clinical studies on medicinal plants included in the polyherbal formulation JVN-8</a></li>
 	
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(48).pdf" style="text-decoration:none;">Simulation of ODE/PDE Models with MATLAB, OCTAVE and SCILAB</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(49).pdf" style="text-decoration:none;">Computational Nanotechnology Modeling and Applications with MATLAB</a></li>	
+  <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(44).pdf" style="text-decoration:none;">The Modern Ayurveda: Milestones Beyond the Classical Age</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(45).pdf" style="text-decoration:none;">The subtle body: An encyclopedia of your energetic anatomy</a></li>	
 	
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(50).pdf" style="text-decoration:none;">Fundamentals of Bioinformatics and Computational Biology: Methods and Exercises in MATLAB</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(46).pdf" style="text-decoration:none;">The subtle body: An encyclopedia of your energetic anatomy</a></li>
 	
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(51).pdf" style="text-decoration:none;">Introductory Quantum Mechanics with MATLAB</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(47).pdf" style="text-decoration:none;">The Wheel of Healing with Ayurveda: An Easy Guide to a Healthy Lifestyle</a></li>
 	
-	
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(52).pdf" style="text-decoration:none;">Mastering MATLAB</a></li>
-	
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(53).pdf" style="text-decoration:none;">MATLAB Matrix Algebra</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(54).pdf" style="text-decoration:none;">Model Predictive Control System Design and Implementation Using MATLAB</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(48).pdf" style="text-decoration:none;">The Ayurveda Lifestyle - Book 2: 140 Ayurvedic Lessons About Food and Life</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(49).pdf" style="text-decoration:none;">Translational Ayurveda</a></li>	
+	
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(50).pdf" style="text-decoration:none;">Well-Mannered Medicine: Medical Ethics and Etiquette in Classical Ayurveda</a></li>
+	
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(51).pdf" style="text-decoration:none;">History of Ayurveda</a></li>
+	
+	
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(52).pdf" style="text-decoration:none;">Ayurveda - A Medical Dictionary, Bibliography, and Annotated Research Guide to Internet References</a></li>
+	
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(53).pdf" style="text-decoration:none;">Religious Therapeutics: Body and Health in Yoga, Ayurveda, and Tantra</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(54).pdf" style="text-decoration:none;">An Integrated View of Health and Well-being: Bridging Indian and Western Knowledge</a></li>
 
 
 	
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(55).pdf" style="text-decoration:none;">Smart Antennas with MATLAB</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(55).pdf" style="text-decoration:none;">The Modern Ayurvedic Cookbook: Healthful, Healing Recipes for Life</a></li>
 	
 	
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(56).pdf" style="text-decoration:none;">Mathematics for Business, Science, and Technology with MATLAB and Excel Computations</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(56).pdf" style="text-decoration:none;">Complementary Medicine For Dummies</a></li>
 	
 
 	
