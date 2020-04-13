@@ -73,7 +73,7 @@ You Sleep Like a Baby</a></li>
 	
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(44).pdf" style="text-decoration:none;">The Modern Ayurveda: Milestones Beyond the Classical Age</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(45).pdf" style="text-decoration:none;">The subtle body: An encyclopedia of your energetic anatomy</a></li>	
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(45).pdf" style="text-decoration:none;">Ayurvedic Management of Select Geriatric Disease Conditions: Treatment Protocols - Guidelines and Costing of Select Geriatric Disorders</a></li>	
 	
  <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(46).pdf" style="text-decoration:none;">The subtle body: An encyclopedia of your energetic anatomy</a></li>
 	
