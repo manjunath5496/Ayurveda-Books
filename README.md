@@ -33,37 +33,38 @@
 	
  <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(21).pdf" style="text-decoration:none;">Healing Depression the Mind-Body Way: Creating Happiness through Meditation, Yoga, and Ayurveda</a></li>
 	
-<li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(22).pdf" style="text-decoration:none;">MATLAB Machine Learning</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(23).pdf" style="text-decoration:none;">MATLAB Machine Learning Recipes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(24).pdf" style="text-decoration:none;">MATLAB Optimization Techniques</a></li>	
+<li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(22).pdf" style="text-decoration:none;">Heaven's Banquet: Vegetarian Cooking for Lifelong Health the Ayurveda Way</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(23).pdf" style="text-decoration:none;">Chemistry, Biochemistry and Ayurveda of Indian Medicinal plants</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(24).pdf" style="text-decoration:none;">Integrative Approaches for Health Biomedical Research, Ayurveda and Yoga</a></li>	
 	
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(25).pdf" style="text-decoration:none;">Matlab: A Practical Introduction to Programming and Problem Solving</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(25).pdf" style="text-decoration:none;">Jeevani Ayurveda for Women</a></li>
 	
 	
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(26).pdf" style="text-decoration:none;">MATLAB: An Introduction with Applications </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(26).pdf" style="text-decoration:none;">Paediatrics in Ayurveda </a></li>
 	
-<li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(27).pdf" style="text-decoration:none;">MATLAB Codes for Finite Element Analysis</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(28).pdf" style="text-decoration:none;">MATLAB Demystified</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(29).pdf" style="text-decoration:none;">MATLAB: Object-Oriented Programming</a></li>	
+<li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(27).pdf" style="text-decoration:none;">Practical Ayurveda: Find Out Who You Are and What You Need to Bring Balance to Your Life</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(28).pdf" style="text-decoration:none;">Prakriti: Your Ayurvedic Constitution</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(29).pdf" style="text-decoration:none;">Scientific Basis for Ayurvedic Therapies</a></li>	
 	
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(30).pdf" style="text-decoration:none;">MATLAB: Programming Fundamentals</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(30).pdf" style="text-decoration:none;">Practice of Ayurveda</a></li>
 	
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(31).pdf" style="text-decoration:none;">MATLAB: Mathematics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(31).pdf" style="text-decoration:none;">Soma in Yoga and Ayurveda: The Power of Rejuvenation and Immortality</a></li>
 	
-<li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(32).pdf" style="text-decoration:none;">MATLAB Recipes for Earth Sciences </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(32).rar" style="text-decoration:none;">The Ãyurveda Encyclopedia </a></li>
 	
-<li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(33).pdf" style="text-decoration:none;">Algorithm Collections for Digital Signal Processing Applications Using Matlab</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(34).pdf" style="text-decoration:none;">MATLAB For Dummies</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(35).pdf" style="text-decoration:none;">Mechanisms and Robots Analysis with MATLAB</a></li>	
+<li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(33).pdf" style="text-decoration:none;">Tao and dharma : Chinese medicine and Ayurveda</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(34).pdf" style="text-decoration:none;">Textbook of Ayurveda: Fundamental Principles of Ayurveda</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(35).pdf" style="text-decoration:none;">The 7 Day Sleep System: Ultimate Vedic Guide to using Mudras, Yoga and Ayurveda for Curing Insomnia, other Sleeping Disorders and Helping
+You Sleep Like a Baby</a></li>	
 	
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(36).pdf" style="text-decoration:none;">Modeling of Photovoltaic Systems Using MATLAB</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(36).rar" style="text-decoration:none;">The Ayurveda Way. 108 Practices from the World's Oldest Healing System</a></li>
 	
- <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(37).pdf" style="text-decoration:none;">Multivariable Calculus with MATLAB</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(37).pdf" style="text-decoration:none;">The Body Balance Diet Plan: Lose excess weight, gain energy and feel fantastic with the science of Ayurveda</a></li>
 	
-<li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(38).pdf" style="text-decoration:none;">Numerical Linear Algebra: A Concise Introduction with MATLAB and Julia </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(38).pdf" style="text-decoration:none;">The Chopra Center herbal handbook: forty natural prescriptions for perfect health </a></li>
 	
-<li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(39).pdf" style="text-decoration:none;">Optical Fiber Communications Systems: Theory and Practice with MATLAB and Simulink Models</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(40).pdf" style="text-decoration:none;">Pattern Recognition</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(39).pdf" style="text-decoration:none;">The Complete Book of Ayurvedic Home Remedies</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(40).pdf" style="text-decoration:none;">The Easy Ayurveda Cookbook: An Ayurvedic Cookbook to Balance Your Body, Eat Well, and Still Have Time to Live Your Life</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(41).pdf" style="text-decoration:none;">Physics of Oscillations and Waves: With use of Matlab and Python</a></li>	
 	
  <li><a target="_blank" href="https://github.com/manjunath5496/Ayurveda-Books/blob/master/ved(42).pdf" style="text-decoration:none;">Practical Biomedical Signal Analysis Using MATLAB</a></li>
